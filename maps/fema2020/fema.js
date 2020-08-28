@@ -48,8 +48,8 @@ http://bl.ocks.org/mbostock/3888852  */
 
 
 //Width and height of map
-var width = 1350;
-var height = 750;
+var width = 900;
+var height = 500;
 
 // D3 Projection
 var projection = d3.geo.albersUsa()
@@ -122,7 +122,7 @@ d3.csv("approved-states.csv", function(data) {
 		    	div.transition()
 		      	   .duration(200)
 		           .style("opacity", .9);
-		           div.text(d.properties.date)
+		        div.text(d.properties.date || 'N/A')
 		           .style("left", (d3.event.pageX) + "px")
 		           .style("top", (d3.event.pageY - 28) + "px");
 			})

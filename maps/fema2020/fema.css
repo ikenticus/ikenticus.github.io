@@ -1,4 +1,9 @@
 
+body {
+	text-align: center;
+	vertical-align: middle;
+}
+
 /* On mouse hover, lighten state color */
 path:hover {
 	fill-opacity: .7;
