@@ -1423,13 +1423,6 @@
 <polygon fill="none" stroke="black" points="4386,-145 4316,-145 4316,-109 4386,-109 4386,-145"/>
 <text text-anchor="middle" x="4351" y="-123.3" font-family="Times,serif" font-size="14.00">Raymond</text>
 </g>
-<!-- FZG1 -->
-<g id="node267" class="node">
-<title>FZG1</title>
-<polygon fill="none" stroke="black" points="4458,-145 4404,-145 4404,-109 4458,-109 4458,-145"/>
-<text text-anchor="middle" x="4431" y="-123.3" font-family="Times,serif" font-size="14.00">FZG1</text>
-</g>
-<!-- RaymondYe&#45;&gt;FZG1 -->
 <!-- Fung0 -->
 <g id="node140" class="node">
 <title>Fung0</title>
