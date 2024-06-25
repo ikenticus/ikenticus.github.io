@@ -1123,12 +1123,12 @@
 <!-- sAlbert -->
 <g id="node127" class="node">
 <title>sAlbert</title>
-<ellipse fill="none" stroke="black" cx="1110.5" cy="-238.86" rx="0.72" ry="0.72"/>
+<ellipse fill="none" stroke="blue" cx="1110.5" cy="-238.86" rx="0.72" ry="0.72"/>
 </g>
 <!-- Albert&#45;&gt;sAlbert -->
 <g id="edge141" class="edge">
 <title>Albert&#45;&gt;sAlbert</title>
-<path fill="none" stroke="black" d="M1091.81,-238.86C1097.65,-238.86 1103.49,-238.86 1109.33,-238.86"/>
+<path fill="none" stroke="blue" d="M1091.81,-238.86C1097.65,-238.86 1103.49,-238.86 1109.33,-238.86"/>
 </g>
 <!-- sBong -->
 <g id="node128" class="node">
@@ -1567,7 +1567,7 @@
 <!-- sAlbert&#45;&gt;WinnieLee -->
 <g id="edge142" class="edge">
 <title>sAlbert&#45;&gt;WinnieLee</title>
-<path fill="none" stroke="black" d="M1111.39,-238.86C1117.38,-238.86 1123.37,-238.86 1129.36,-238.86"/>
+<path fill="none" stroke="blue" d="M1111.39,-238.86C1117.38,-238.86 1123.37,-238.86 1129.36,-238.86"/>
 </g>
 <!-- cAlbert -->
 <g id="node154" class="node">
@@ -1577,7 +1577,7 @@
 <!-- sAlbert&#45;&gt;cAlbert -->
 <g id="edge241" class="edge">
 <title>sAlbert&#45;&gt;cAlbert</title>
-<path fill="none" stroke="black" d="M1110.53,-237.7C1110.78,-236.18 1113.06,-223.83 1120.5,-218.88 1157.6,-194.21 1512.29,-183.39 1528.9,-182.9"/>
+<path fill="none" stroke="blue" d="M1110.53,-237.7C1110.78,-236.18 1113.06,-223.83 1120.5,-218.88 1157.6,-194.21 1512.29,-183.39 1528.9,-182.9"/>
 </g>
 <!-- sBong&#45;&gt;Constance -->
 <g id="edge145" class="edge">
@@ -1994,7 +1994,7 @@
 <!-- cAlbert&#45;&gt;Kent -->
 <g id="edge242" class="edge">
 <title>cAlbert&#45;&gt;Kent</title>
-<path fill="none" stroke="black" d="M1529.5,-181.29C1529.5,-179.41 1529.5,-160.43 1529.5,-145.75"/>
+<path fill="none" stroke="blue" d="M1529.5,-181.29C1529.5,-179.41 1529.5,-160.43 1529.5,-145.75"/>
 </g>
 <!-- Larry -->
 <g id="node181" class="node">
@@ -2005,7 +2005,7 @@
 <!-- cAlbert&#45;&gt;Larry -->
 <g id="edge243" class="edge">
 <title>cAlbert&#45;&gt;Larry</title>
-<path fill="none" stroke="black" d="M1530.02,-181.35C1537.03,-180.11 1613.1,-166.41 1671.5,-145.44 1674.36,-144.41 1677.3,-143.24 1680.21,-141.99"/>
+<path fill="none" stroke="blue" d="M1530.02,-181.35C1537.03,-180.11 1613.1,-166.41 1671.5,-145.44 1674.36,-144.41 1677.3,-143.24 1680.21,-141.99"/>
 </g>
 <!-- cBong&#45;&gt;cCindy -->
 <!-- Gabriel -->
