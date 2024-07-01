@@ -11,7 +11,7 @@
 <!-- UnknownPan -->
 <g id="node1" class="node">
 <title>UnknownPan</title>
-<ellipse fill="none" stroke="red" cx="2204.5" cy="-450.33" rx="0.72" ry="0.72"/>
+<ellipse fill="none" stroke="black" cx="2204.5" cy="-450.33" rx="0.72" ry="0.72"/>
 </g>
 <!-- UnknownNg -->
 <g id="node2" class="node">
@@ -22,12 +22,12 @@
 <!-- cUnknownPan -->
 <g id="node5" class="node">
 <title>cUnknownPan</title>
-<ellipse fill="none" stroke="red" cx="2026.5" cy="-412.89" rx="0.72" ry="0.72"/>
+<ellipse fill="none" stroke="black" cx="2026.5" cy="-412.89" rx="0.72" ry="0.72"/>
 </g>
 <!-- UnknownPan&#45;&gt;cUnknownPan -->
 <g id="edge4" class="edge">
 <title>UnknownPan&#45;&gt;cUnknownPan</title>
-<path fill="none" stroke="red" d="M2203.71,-449.45C2191.37,-446.96 2039.11,-416.16 2027.23,-413.76"/>
+<path fill="none" stroke="black" d="M2203.71,-449.45C2191.37,-446.96 2039.11,-416.16 2027.23,-413.76"/>
 </g>
 <!-- UnknownLai -->
 <g id="node3" class="node">
@@ -80,7 +80,7 @@
 <!-- cUnknownPan&#45;&gt;Pan1 -->
 <g id="edge5" class="edge">
 <title>cUnknownPan&#45;&gt;Pan1</title>
-<path fill="none" stroke="red" d="M2025.78,-412.17C2005.88,-411.9 1579.93,-405.9 1460.5,-376.17 1457.55,-375.44 1454.55,-374.51 1451.58,-373.45"/>
+<path fill="none" stroke="black" d="M2025.78,-412.17C2005.88,-411.9 1579.93,-405.9 1460.5,-376.17 1457.55,-375.44 1454.55,-374.51 1451.58,-373.45"/>
 </g>
 <!-- SauChing -->
 <g id="node9" class="node">
@@ -91,7 +91,7 @@
 <!-- cUnknownPan&#45;&gt;SauChing -->
 <g id="edge6" class="edge">
 <title>cUnknownPan&#45;&gt;SauChing</title>
-<path fill="none" stroke="red" d="M2025.57,-412.1C2013.13,-411.14 1877.88,-400.33 1771.5,-376.17 1763.4,-374.34 1754.83,-371.92 1746.77,-369.42"/>
+<path fill="none" stroke="black" d="M2025.57,-412.1C2013.13,-411.14 1877.88,-400.33 1771.5,-376.17 1763.4,-374.34 1754.83,-371.92 1746.77,-369.42"/>
 </g>
 <!-- Pan3 -->
 <g id="node10" class="node">
@@ -102,7 +102,7 @@
 <!-- cUnknownPan&#45;&gt;Pan3 -->
 <g id="edge7" class="edge">
 <title>cUnknownPan&#45;&gt;Pan3</title>
-<path fill="none" stroke="red" d="M2025.97,-412.06C2018.91,-410.56 1942.19,-394.14 1881.5,-376.17 1874.91,-374.23 1867.95,-371.97 1861.26,-369.72"/>
+<path fill="none" stroke="black" d="M2025.97,-412.06C2018.91,-410.56 1942.19,-394.14 1881.5,-376.17 1874.91,-374.23 1867.95,-371.97 1861.26,-369.72"/>
 </g>
 <!-- Pan4 -->
 <g id="node12" class="node">
@@ -113,7 +113,7 @@
 <!-- cUnknownPan&#45;&gt;Pan4 -->
 <g id="edge8" class="edge">
 <title>cUnknownPan&#45;&gt;Pan4</title>
-<path fill="none" stroke="red" d="M2026.5,-412.02C2026.5,-410.04 2026.5,-389.87 2026.5,-374.57"/>
+<path fill="none" stroke="black" d="M2026.5,-412.02C2026.5,-410.04 2026.5,-389.87 2026.5,-374.57"/>
 </g>
 <!-- Pan5 -->
 <g id="node13" class="node">
@@ -124,7 +124,7 @@
 <!-- cUnknownPan&#45;&gt;Pan5 -->
 <g id="edge9" class="edge">
 <title>cUnknownPan&#45;&gt;Pan5</title>
-<path fill="none" stroke="red" d="M2027.04,-411.82C2031.37,-408.99 2061.05,-389.56 2083.8,-374.67"/>
+<path fill="none" stroke="black" d="M2027.04,-411.82C2031.37,-408.99 2061.05,-389.56 2083.8,-374.67"/>
 </g>
 <!-- YuChang -->
 <g id="node14" class="node">
@@ -135,7 +135,7 @@
 <!-- cUnknownPan&#45;&gt;YuChang -->
 <g id="edge10" class="edge">
 <title>cUnknownPan&#45;&gt;YuChang</title>
-<path fill="none" stroke="red" d="M2026.96,-412.05C2033.06,-410.42 2099.47,-392.57 2152.5,-376.17 2159.67,-373.96 2167.32,-371.49 2174.61,-369.08"/>
+<path fill="none" stroke="black" d="M2026.96,-412.05C2033.06,-410.42 2099.47,-392.57 2152.5,-376.17 2159.67,-373.96 2167.32,-371.49 2174.61,-369.08"/>
 </g>
 <!-- Lee0Spouse1 -->
 <g id="node7" class="node">
